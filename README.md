@@ -1,5 +1,4 @@
 # Airline-Safety-Visualizations-with-PowerBI-R-Python
-Final Project for DSC 640: Data Presentation and Visualization
 
 ## What is the Safest Method of Travel?
 
